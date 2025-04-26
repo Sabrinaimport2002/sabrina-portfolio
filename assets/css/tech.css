@@ -81,6 +81,11 @@
 
   .project__img {
     height: 4rem;
+    padding: 0.5rem;
+  }
+
+  .skills__content{
+    gap: 0.5rem;
   }
 }
 
